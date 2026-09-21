@@ -3,7 +3,39 @@ MIT License
 Copyright (c) 2026 menghaobu7-png
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to MIT License
+
+Copyright (c) 2026 menghaobu7-png (阿步)
+專案代碼：G17AI23K G13 2346 G17
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+🔥 【額外附註與系統實用連結 / Extra Links & System Notes】
+--------------------------------------------------------------------------------
+* 專案總部首頁 (Hub)：[https://github.com/menghaobu7-png](https://github.com/menghaobu7-png)
+* 核心串接實例 (Stripe V2 Connect Sample)：[點此前往專案目錄查看程式碼與 Webhook 測試設定]
+* 狀態與頻段：連線穩定 🟢 | 測試網/主網數據同步中
+* ⚠️ 免責與幹話宣告：
+  1. 本程式碼在地下長廊的霓虹燈管下誕生，若執行時突然出現賽博龐克全息投影或聽見電子巨龍的低吼，屬於正常物理現象。
+  2. 若拿去商業化賺大錢請自己小心，遇到 bug 請手動注入熱咖啡或重開機；若程式碼爆炸，作者在高雄港的風中與您同在 ❤️。
+deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
