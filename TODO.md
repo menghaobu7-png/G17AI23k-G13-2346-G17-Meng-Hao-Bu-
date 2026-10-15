@@ -8,6 +8,8 @@
 - [x] 提供事件明細、節點狀態與 LOCAL DEMO／不連接銀行的清楚說明。
 - [x] 支援瀏覽器 localStorage 保存展示事件與重設展示資料。
 - [x] 建立 `/manus-routes.json`。
+- [x] 新增 `tx_flow.json`，並以 `fetch('./tx_flow.json')` 載入交易流資料至網頁看板。
+- [x] 將本次生成程式碼記錄於 `docs/code-lock-2026-10-16.md`，並納入版本控制。
 
 ## 後端階段（未包含在本次前端展示）
 - [ ] 將事件寫入真正的後端唯追加儲存。

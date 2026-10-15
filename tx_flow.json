@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "source": "PROJECT_2346_LOCAL_DEMO",
+  "currency": "TWD",
+  "generated_at": "2026-10-16T03:25:28+08:00",
+  "transactions": [
+    {
+      "id": "tx_2346_0003",
+      "type": "deposit",
+      "status": "confirmed",
+      "amount": 12000,
+      "memo": "專案資金補充",
+      "actor": "OWNER",
+      "timestamp": "2026-10-16T03:21:08+08:00"
+    },
+    {
+      "id": "tx_2346_0002",
+      "type": "withdrawal",
+      "status": "review",
+      "amount": 1800,
+      "memo": "測試出金流程",
+      "actor": "OWNER",
+      "timestamp": "2026-10-16T03:18:42+08:00"
+    },
+    {
+      "id": "tx_2346_0001",
+      "type": "deposit",
+      "status": "confirmed",
+      "amount": 5000,
+      "memo": "初始交易流資料",
+      "actor": "OWNER",
+      "timestamp": "2026-10-16T03:15:20+08:00"
+    }
+  ]
+}
